@@ -8,9 +8,10 @@ from datetime import datetime
 # -----------------------------------------------------------------------------
 st.set_page_config(
     page_title="Room State Dashboard",
-    page_page_icon="🏨",
+    page_icon="🏨",  # <-- Đã sửa thành page_icon
     layout="wide",
     initial_sidebar_state="expanded"
+)
 )
 
 # Custom CSS cho giao diện hiện đại & các ô thẻ phòng
