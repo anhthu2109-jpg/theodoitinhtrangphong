@@ -12,7 +12,6 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
 )
-)
 
 # Custom CSS cho giao diện hiện đại & các ô thẻ phòng
 st.markdown("""
